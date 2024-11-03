@@ -47,3 +47,5 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with clear messages.   
 Push your changes to your forked repository.
 Submit a pull request to the main repository.
+![image](https://github.com/user-attachments/assets/20fb3a9f-c996-455e-af3d-b7084aaf8f4d)
+
