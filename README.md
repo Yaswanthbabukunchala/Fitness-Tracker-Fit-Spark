@@ -48,4 +48,10 @@ Make your changes and commit them with clear messages.  
 Push your changes to your forked repository.
 Submit a pull request to the main repository.
 ![image](https://github.com/user-attachments/assets/20fb3a9f-c996-455e-af3d-b7084aaf8f4d)
+![image](https://github.com/user-attachments/assets/cd8f908c-06db-40ff-830d-a71e32093d97)
+![image](https://github.com/user-attachments/assets/07cb8c40-9158-4620-b6ef-9516c771ee25)
+![image](https://github.com/user-attachments/assets/03b9b17f-e331-4a12-9267-cbd1394b0e7b)
+
+
+
 
